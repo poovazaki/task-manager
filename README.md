@@ -35,3 +35,6 @@ UI Preview
 - Home Dashboard  
 - Task Cards  
 - Add Task Modal
+
+LICENSE
+This project is open-source and available under the MIT License.
